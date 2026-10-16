@@ -1,0 +1,15 @@
+# Python
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+
+# Build output
+frontend/dist/
+frontend/build/
